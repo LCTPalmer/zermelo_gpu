@@ -7,5 +7,5 @@ Numpy<br>
 Theano<br>
 Cuda toolkit (etc.)<br>
 <br>
-25x speed-up using GPU vs pure numpy CPU implementation (on 2000 x 2000 size pairwise comparison matrix)
+25x speed-up using GPU vs pure numpy CPU implementation (estimating 2000 parameter BTL model)
 
